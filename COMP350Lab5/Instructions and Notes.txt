@@ -1,0 +1,33 @@
+---------- Notes -----------
+
+The Program has an Employee class that creates an employee object and writes the contents of the object
+to a .csv file named employees.csv. There is data encapsulation and validation. Validation occurs before the object is
+created to prevent any exceptions from being thrown. There is a submit button which writes the contents to the file,
+a view button that displays the contents of the file in a new form, and a reset button that resets the form and the .csv file.
+
+------- Instructions -------
+
+The Amish Gardens Horse Ranch is happy with the work you’ve done on their animal data
+application. Since their business is growing, they would like another program that will keep
+track of their employees. The completed application will have two forms. The first form will
+accept the data that the user enters and append the data to a comma separated text file. The
+second form will open from the first form and will display the data from the text file as tab-
+separated text. It should also display the gross pay based on the pay rate and number of hours
+worked.
+
+The data for the employee will include; first name, last name, date of birth (mm/dd/yy), home
+address, pay rate and hours worked. All of the data should be stored in an Employee class and
+should be validated in both the form class and Employee class.
+Be sure to indent and align nested code. The source code should include comments that explain
+what the code is doing.
+
+Complete a lab report in Microsoft Word or Word-compatible program that documents the
+source code, successful compilation, and successful execution. Include class diagrams. Save the
+lab report as a .doc or .docx file. The lab report should contain a description of the assignment,
+screen images of the source code, screen images of successful compilation, and screen images
+of successful execution.
+
+The C# source code files should be compressed together into a single zipped file named
+Lastname,Firstname_Lab5.zip.
+
+If you have any questions or difficulties, please ask.
