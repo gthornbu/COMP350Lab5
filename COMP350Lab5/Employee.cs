@@ -16,6 +16,8 @@ namespace COMP350Lab5
         private string payRate;
         private string hours;
 
+        private string testString;
+
         //----------------------------
         //Constructors
         //----------------------------
